@@ -1,2 +1,1 @@
-interview-preperation
-algarithmic task for holberton school.
+Readme file
